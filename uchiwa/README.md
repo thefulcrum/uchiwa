@@ -9,7 +9,7 @@ The cookbook supports the following installation methods:
 + repo (default)
 + http
 
-# Supported platforms
+# Supported plateforms
 
 These plateforms have been tested successfully.
 
@@ -29,4 +29,3 @@ These plateforms have been tested successfully.
 
 * Author: Justin Kolberg (<amd.prophet@gmail.com>)
 * Author: Jean-Francois Theroux (<me@failshell.io>)
-# uchiwa
