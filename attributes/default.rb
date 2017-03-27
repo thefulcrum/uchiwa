@@ -1,5 +1,5 @@
 # Global
-default['uchiwa']['version'] = '0.8.1-1'
+default['uchiwa']['version'] = '0.11.2-1'
 default['uchiwa']['install_method'] = 'repo'
 default["uchiwa"]["apt_repo_url"] = "https://sensu.global.ssl.fastly.net/apt"
 default["uchiwa"]["yum_repo_url"] = "https://sensu.global.ssl.fastly.net/yum"
